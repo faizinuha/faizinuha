@@ -1,3 +1,5 @@
+<img src='https://camo.githubusercontent.com/dd3479238e82bdffb096416dc6b973909f489f563dc6228992390cade5b1ec32/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f32612f36322f37642f32613632376431366135613962383036313236636361636534373031326663302e676966' style="height: 400px;"/>
+
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
@@ -18,8 +20,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=faizinuha&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=faizinuha&icon=9&color=1)](https://visitcount.itsvg.in)
