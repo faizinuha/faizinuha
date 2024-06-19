@@ -23,6 +23,7 @@
 
 
 ---
+[![](https://visitcount.itsvg.in/api?id=faizinuha&label=Profile%20Views&color=6&pretty=false)](https://visitcount.itsvg.in)
 [![](https://visitcount.itsvg.in/api?id=faizinuha&icon=9&color=1)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
