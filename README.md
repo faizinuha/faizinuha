@@ -17,7 +17,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=faizinuha&theme=blue_navy&no-frame=false&no-bg=true&margin-w=4)
 ![](https://camo.githubusercontent.com/044c60c9687351fb4828e37a74ef435c8fb6500cdbcbe24de992dca801e0729f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4b6169746f4465436f6465267468656d653d7261646963616c26686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565266c61796f75743d636f6d70616374)![]
-
+[![An image of @faizinuha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/faizinuha)](https://holopin.io/@faizinuha)
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=faizinuha&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
