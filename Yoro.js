@@ -1,1 +1,1 @@
-console.log("hallo badge")
+const pair = "extraordinaire";
