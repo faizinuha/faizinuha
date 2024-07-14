@@ -1,1 +1,1 @@
-console.log("Hallo")
+const pair = "ExtraOrdinaire";
