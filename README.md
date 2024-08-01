@@ -2,7 +2,7 @@
     <h3>Hi 👋, 我是 <a href="#">Longtao</a></h3>
  <p align="center">
         <a href="https://longtao.fun">
-            <img src="[cat.webp](https://cdn.jsdelivr.net/gh/Longtao-W/pics@main/20210916/avatar.71pjc2scvak0.jpg)https://cdn.jsdelivr.net/gh/Longtao-W/pics@main/20210916/avatar.71pjc2scvak0.jpg" width="50"/>
+            <img src="cat.jpg" width="50"/>
         </a>
     </p>
     <p align="center">
