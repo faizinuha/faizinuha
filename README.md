@@ -1,18 +1,13 @@
 <div align="center">
     <h3>Hi 👋, 我是 <a href="#">Mardev</a></h3>
- <p align="center">
+    <p align="center">
         <a href="http://portofolio-to.000.pe/?i=1">
-            <img src="https://media.npr.org/assets/img/2023/12/12/gettyimages-1054147940-627235e01fb63b4644bec84204c259f0a343e35b.jpg?s=1100&c=50&f=jpeg" width="50" style="border-radius:40px": />
+            <img src="https://media.npr.org/assets/img/2023/12/12/gettyimages-1054147940-627235e01fb63b4644bec84204c259f0a343e35b.jpg?s=1100&c=50&f=jpeg" width="50" style="border-radius:40px;" alt="Profile Picture" />
         </a>
     </p>
     <p align="center">
-        <a href="https://github.com/faizinuha/faizinuha/edit/main/README.id.md"><span>Indo</span></a>|
-        <a href="https://github.com/faizinuha/faizinuha/edit/main/README.iG.md"><span>Inggris</span></a>|
-<!--         <a href="https://github.com/eust-w/eust-w/blob/main/README_CN.md"><span>中文</span></a>| -->
-<!--         <a href="https://github.com/eust-w/eust-w/blob/main/README_FR.md"><span>Français</span></a>| -->
-<!--         <a href="https://github.com/eust-w/eust-w/blob/main/README_RU.md"><span>Французский</span></a>| -->
-<!--         <a href="https://github.com/eust-w/eust-w/blob/main/README_AR.md"><span>عربي</span></a>| -->
-<!--         <a href="https://github.com/eust-w/eust-w/blob/main/README_JP.md"><span>日本語</span></a>| -->
+        <a href="https://github.com/faizinuha/faizinuha/edit/main/README.id.md"><span>Indo</span></a> |
+        <a href="https://github.com/faizinuha/faizinuha/edit/main/README.iG.md"><span>Inggris</span></a>
     </p>
     <p>🌟 欢迎来到我的编码宇宙！ 🌟</p>
     <h4 align="left">我的开源项目</h4>
@@ -38,11 +33,9 @@
             <td><a href="https://github.com/eust-w/gnome-extension-wakwaka">gnome-extension-wakwaka</a> - Gnome 扩展</td>
         </tr>
     </table>
-</div>
-
-
- <p align="center">
+    <p align="center">
         <a href="http://portofolio-to.000.pe/?i=1">
-            <img src=1.gif" width="50" style="border-radius:40px": />
+            <img src="1.gif" width="3000"  style="border-radius30px;" alt="Another Image" />
         </a>
     </p>
+</div>
