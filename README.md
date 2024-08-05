@@ -6,8 +6,8 @@
         </a>
     </p>
     <p align="center">
-        <a href="https://github.com/eust-w/eust-w/blob/main/README.md"><span>Indo</span></a>|
-        <a href="https://github.com/eust-w/eust-w/blob/main/README.IG.md"><span>Inggris</span></a>|
+        <a href="https://github.com/faizinuha/faizinuha/edit/main/README.id.md"><span>Indo</span></a>|
+        <a href="https://github.com/faizinuha/faizinuha/edit/main/README.iG.md"><span>Inggris</span></a>|
 <!--         <a href="https://github.com/eust-w/eust-w/blob/main/README_CN.md"><span>中文</span></a>| -->
 <!--         <a href="https://github.com/eust-w/eust-w/blob/main/README_FR.md"><span>Français</span></a>| -->
 <!--         <a href="https://github.com/eust-w/eust-w/blob/main/README_RU.md"><span>Французский</span></a>| -->
