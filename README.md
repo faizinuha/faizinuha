@@ -1,5 +1,6 @@
-
-
+ <p align="center">
+       <img src="cat.jpg" width="200"  style="border-radius: 50px;" alt="Another Image" />
+    </p>
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
