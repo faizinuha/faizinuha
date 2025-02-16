@@ -1,5 +1,7 @@
- <p align="center">
-       <img src="cat.jpg" width="200"  style="border-radius: 50px;" alt="Another Image" />
+  <p>
+        <a href="http://portofolio-to.000.pe/?i=1">
+            <img src="1.gif" width="3000"  style="border-radius30px;" alt="Another Image" />
+        </a>
     </p>
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
@@ -31,9 +33,5 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://saweria.co/C02V) 
 
-   <p align="center">
-        <a href="http://portofolio-to.000.pe/?i=1">
-            <img src="1.gif" width="3000"  style="border-radius30px;" alt="Another Image" />
-        </a>
-    </p>
+  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
