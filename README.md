@@ -3,7 +3,10 @@
             <img src="1.gif" width="700" align="center" style="border-radius30px;" alt="Another Image" />
         </a>
     </p>
- 
+
+    
+ ![Zaky's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizinuha&show_icons=true&theme=radical)
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/SQG3hrjCqS) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/wolfcode7_/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@TravelTalesXP?sub_confirmation=1) 
